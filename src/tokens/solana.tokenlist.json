@@ -11357,6 +11357,16 @@
       }
     }
   ],
+  {
+      "chainId": 101,
+      "address": "5QUAj5wnSNXsLE7Vh7WWUxuDKHnMD7Bmhx3SeYY2pcdf",
+      "symbol": "LShtivi",
+      "name": "LShtivi",
+      "decimals": 8,
+      "logoURI": "https://avatars.githubusercontent.com/u/88356506?v=4",
+      "tags": [
+        "lp-token"
+      ],
   "version": {
     "major": 0,
     "minor": 2,
